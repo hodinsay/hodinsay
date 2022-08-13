@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hodinsay
-- 👀 I’m interested in video games, comics, manga, anime, tv shows, movies, cars, and Formula-1. 
+- 👀 I’m interested in video games, comics, manga, anime, books (non-fiction / fiction / fantasy), tv shows, movies, cars, and Formula-1. 
 - 🌱 I’m currently making full-stack apps. 
 
 <!---
