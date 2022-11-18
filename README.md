@@ -4,9 +4,9 @@
 
 <p align="left"> <a href="https://twitter.com/hodin81" target="blank"><img src="https://img.shields.io/twitter/follow/hodin81?logo=twitter&style=for-the-badge" alt="hodin81" /></a> </p>
 
-- 🔭 I’m currently working on [Solar Shade](https://github.com/hodinsay/Solar-Shade-E-commerce-Website-Design)
+- 🔭 I’m currently working on [Pic Blog](https://github.com/hodinsay/PicBlog)
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **React** and **JS Algorithm**
 
 - 👨‍💻 My portfolio website: [https://hodinsportfolio.netlify.app/](https://hodinsportfolio.netlify.app/)
 
