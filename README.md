@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on a react-tailwind-website.
 
-- 🌱 I’m currently learning **React**, **Tailwind, and **JS Algorithm**
+- 🌱 I’m currently learning **React**, **Tailwind**, and **JS Algorithm**
 
 - 👨‍💻 My portfolio website: [https://hodinsportfolio.netlify.app/](https://hodinsportfolio.netlify.app/)
 
