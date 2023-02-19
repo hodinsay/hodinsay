@@ -8,7 +8,7 @@
 
 - 👨‍💻 My portfolio website: [https://hodinsportfolio.netlify.app/](https://hodinsportfolio.netlify.app/)
 
-- 📫 How to reach me: **hodin81@gmail.com**
+- 📫 My email: **hodin81@gmail.com**
 
 - 📄 My [resume](https://github.com/hodinsay/Din-Portfolio-Website/blob/master/images/Din_Ho_Resume.pdf)
 
