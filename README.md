@@ -2,9 +2,9 @@
 <h3 align="center">Software Engineer | Full-Stack Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
-- 🔭 I’m currently working on a vite-react-photographer-website.
+- 🔭 I’m currently working on reconstructing portfolio website.
 
-- 🌱 I’m currently learning **React**, and **JS Algorithm**
+- 🌱 I’m currently learning **React** and **JS Algorithm**
 
 - 👨‍💻 My portfolio website: [https://hodinsportfolio.netlify.app/](https://hodinsportfolio.netlify.app/)
 
