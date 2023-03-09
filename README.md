@@ -2,7 +2,7 @@
 <h3 align="center">Software Engineer | Full-Stack Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
-- 🔭 I’m currently open to job. If you have an opportunity that matches my skills and experience, please don't hesitate to contact me.
+- 🔭 I am open to **job** opportunities where I can contribute and learn at. If you have an opportunity that matches my skills and experience, please don't hesitate to **contact** me.
 
 - 🌱 I’m currently learning **React** and **JS Algorithm**
 
