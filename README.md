@@ -2,15 +2,15 @@
 <h3 align="center">Software Engineer | Full-Stack Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
-- 🔭 I’m currently working on reconstructing portfolio website.
+- 🔭 I’m currently open to job. If you have an opportunity that matches my skills and experience, please don't hesitate to contact me.
 
 - 🌱 I’m currently learning **React** and **JS Algorithm**
 
-- 👨‍💻 My portfolio website: [https://hodinsportfolio.netlify.app/](https://hodinportfolio.netlify.app/)
+- 👨‍💻 My portfolio website: [https://hodinportfolio.netlify.app/](https://hodinportfolio.netlify.app/)
 
 - 📫 My email: **hodin81@gmail.com**
 
-- 📄 My [resume](https://github.com/hodinsay/Din-Portfolio-Website/blob/master/images/Din_Ho_Resume.pdf)
+- 📄 My [resume](https://github.com/hodinsay/hodin-portfolio-website/blob/master/src/assets/Din_Ho_Resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
