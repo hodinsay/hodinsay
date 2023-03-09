@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **React** and **JS Algorithm**
 
-- 👨‍💻 My portfolio website: [https://hodinsportfolio.netlify.app/](https://hodinsportfolio.netlify.app/)
+- 👨‍💻 My portfolio website: [https://hodinsportfolio.netlify.app/](https://hodinportfolio.netlify.app/)
 
 - 📫 My email: **hodin81@gmail.com**
 
