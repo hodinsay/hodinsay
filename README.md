@@ -4,7 +4,7 @@
 
 - 🔭 I am open to **job** opportunities where I can contribute and learn at. If you have an opportunity that matches my skills and experience, please don't hesitate to **contact** me.
 
-- 🌱 I’m currently working on a task (to-do) board web application. Learning **React** and **JS Algorithm**
+- 🌱 I’m currently working on a pomodoro timer web application. Learning **React** and **JS Algorithm**
 
 - 👨‍💻 My portfolio website: [https://hodinportfolio.netlify.app/](https://hodinportfolio.netlify.app/)
 
