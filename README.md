@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Din</h1>
-<h3 align="center">Software Engineer | Front-end Web Developer | React.js</h3>
+<h3 align="center">Software Engineer | Web Developer </h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
 - 🔭 I am open to **job** opportunities where I can contribute and learn at. If you have an opportunity that matches my skills and experience, please don't hesitate to **contact** me.
